@@ -538,7 +538,7 @@ If you use this benchmark in your research, please cite:
 
 ## License
 
-MIT License. See `LICENSE` for details.
+BSD 3-Clause License. See `LICENSE` for details.
 
 ---
 
